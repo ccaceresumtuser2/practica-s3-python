@@ -15,6 +15,7 @@ Creas la carpeta .aws en tu carpeta User
 C:\Users\TU_USUARIO\.aws\
 .aws
  ├── credentials
+ 
  └── config
 
  Archivo config
