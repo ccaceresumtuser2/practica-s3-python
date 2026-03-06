@@ -14,7 +14,8 @@ En windows configura las credenciales con El laboratorio Lab 3.1: Working with A
 Creas la carpeta .aws en tu carpeta User
 C:\Users\TU_USUARIO\.aws\
 .aws
- ├── credentials
+
+├── credentials
  
  └── config
 
